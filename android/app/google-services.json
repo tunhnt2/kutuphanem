@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528434728343",
+    "project_id": "flutter-kutuphanem",
+    "storage_bucket": "flutter-kutuphanem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528434728343:android:2a5a645896d756bb3448d2",
+        "android_client_info": {
+          "package_name": "com.example.kutuphanem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528434728343-np8bsi9m2q9t7r0mltmlf69he8gt4vm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBjBeMiNPXRWjPb_07Y62XZbhYdhkApfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528434728343-np8bsi9m2q9t7r0mltmlf69he8gt4vm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
